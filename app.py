@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import numpy_financial as npf
 
-st.title("📊 Finance AI Agent - Project Evaluation")
+st.title("📊 Project Evaluator AI")
 
 # Upload Excel
 file = st.file_uploader("Upload Excel File", type=["xlsx"])
